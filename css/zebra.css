@@ -1,0 +1,9 @@
+.background1 {
+  height: 500px;
+  background-image: url(/img/zebra1.png);
+}
+
+.background2 {
+  height: 500px;
+  background-image: url(/img/zebra2.png);
+}
